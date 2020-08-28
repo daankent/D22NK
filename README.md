@@ -1,10 +1,10 @@
 ### Hallo,
 
-:boy: Daan Kentrop /n
-:nl: Netherlands /n
-🔭 Working on ![](https://bijlesvinden.nl) /n
-🌱 Javascript & Node.js /n
-📫 Daankentrop@gmail.com /n
+-:boy: Daan Kentrop 
+-:nl: Netherlands 
+-🔭 Working on ![](https://bijlesvinden.nl) 
+-🌱 Javascript & Node.js 
+-📫 Daankentrop@gmail.com 
 
 
 
