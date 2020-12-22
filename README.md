@@ -2,8 +2,8 @@
 
 - :boy: Daan Kentrop 
 - :nl: Netherlands 
-- 🔭 Working on:  Bijlesvinden.nl
-- 🌱 Learning: Javascript & Node.js 
+- 🔭 Working on:  Some random projects
+- 🌱 Learning: Javascript & Node.js & ReactJs
 - 📫 Daankentrop@gmail.com 
 
 
